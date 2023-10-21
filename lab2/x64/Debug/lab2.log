@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\19309\Desktop\文档\网络技术\lab2\main.cpp(164,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\19309\Desktop\文档\网络技术\lab2\main.cpp(164,9): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\19309\Desktop\文档\网络技术\lab2\main.cpp(164,9): message : 缺失的可变参数 2 为格式字符串“%i”所需
+  lab2.vcxproj -> C:\Users\19309\Desktop\文档\网络技术\lab2\x64\Debug\lab2.exe
